@@ -29,5 +29,6 @@ class Program
                 Console.WriteLine("-----------------");
             }
         }
+        AccesoDatos.ReporteTareas(lista);
     }
 }
